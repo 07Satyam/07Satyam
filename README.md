@@ -1,7 +1,5 @@
 ### Hi, I'm Satyam Gadekar! 👋
-  Aspiring Data Scientist 👨‍💻 | AI Geek 🤖 | Actuarial Science Graduate 📊
-
-Here are some ideas to get you started:
+  _Aspiring Data Scientist 👨‍💻 | AI Geek 🤖 | Actuarial Science Graduate 📊_
 
 - 🔭 I’m currently working on Machine Learning project.
 - 🌱 I’m currently learning Deep Learning and Computer Vision topics.
