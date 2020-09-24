@@ -1,5 +1,7 @@
 ### Hi, I'm Satyam Gadekar! 👋
-  _Aspiring Data Scientist 👨‍💻 | AI Geek 🤖 | Actuarial Science Graduate 📊_
+[![HitCount](http://hits.dwyl.com/07Satyam/07Satyam.svg)](http://hits.dwyl.com/07Satyam/07Satyam)
+   
+   _Aspiring Data Scientist 👨‍💻 | AI Geek 🤖 | Actuarial Science Graduate 📊_
 
 - 🔭 I’m currently working on Machine Learning project.
 - 🌱 I’m currently learning Deep Learning and Computer Vision topics.
