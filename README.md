@@ -16,8 +16,10 @@
                         </a>
                        <a href="https://twitter.com/GadekarSatyam?s=09"> <img align="middle" alt="07Satyam | Twitter" width="22px"
                          src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-                        </a>  
-          
+                        </a>  <a href="https://t.me/Satyam_07"> <img align="middle" alt="Satyam's Telegram" width="22px" 
+                         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+                        </a>
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding + Music + Stack Overflow
 
