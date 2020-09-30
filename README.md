@@ -2,6 +2,7 @@
 [![HitCount](http://hits.dwyl.com/07Satyam/07Satyam.svg)](http://hits.dwyl.com/07Satyam/07Satyam)
    
    _Aspiring Data Scientist 👨‍💻 | AI Geek 🤖 | Actuarial Science Graduate 📊_
+   <img align="right" width="422px" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Satyam's github stats"/>
 
 - 🔭 I’m currently working on Machine Learning project.
 - 🌱 I’m currently learning Deep Learning and Computer Vision topics.
@@ -31,6 +32,7 @@
 </a>
 
 <div align="center">
+ 
 
 ### Show some ❤️ by starring some of the repositories!
 
